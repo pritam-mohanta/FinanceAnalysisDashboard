@@ -95,11 +95,11 @@ A dedicated Date Table was created for time-based analysis, including **Year, Mo
 
 ### 1. Overview Analysis
 
-![Finance Analysis - Overview](Screenshot 2026-08-12 214751.png)
+![Overview Analysis Dashboard](Screenshot%202026-08-12%20214732.png)
 
 ### 2. Transactions
 
-![Finance Analysis - Transactions](Screenshot 2026-08-12 214751.png)
+![Transactions Dashboard](Screenshot%202026-08-12%20214751.png)
 
 ---
 
